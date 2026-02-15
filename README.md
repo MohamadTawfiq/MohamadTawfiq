@@ -18,7 +18,7 @@ Also exploring programming to better understand technical teams.
 
 ---
 
-# 📌 Mohamed Tawfiq – Professional Profile
+# 📌 Mohamed Tawfiq – Profile
 
 👋 Hello, I'm **Mohamed Tawfiq**  
 
@@ -29,7 +29,7 @@ I integrate **finance, sales, marketing, and digital operations** to deliver mea
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 - 🏢 **Executive Management & Operations** – Leading teams, strategic planning, and operational excellence  
 - 📊 **Project Management** – Agile, Scrum, and **ClickUp** for ERP, software, and digital transformation projects  
