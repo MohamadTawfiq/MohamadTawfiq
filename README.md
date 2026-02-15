@@ -1,19 +1,32 @@
-<div align="center" width="50">
+# 📌 Mohamed Tawfiq – Professional Profile
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+👋 Hello, I'm **Mohamed Tawfiq**  
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+**Executive & Project Management | ERP & Software Consultant | Business & Technology Strategist**  
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+I bring **25+ years of professional experience** bridging business operations, ERP systems, software development, and client success.  
+I integrate **finance, sales, marketing, and digital operations** to deliver measurable outcomes for enterprises and software projects.  
 
-</details>
+---
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
+## 💼 Professional Experience
+
+- **Executive Management & Operations** – Leading teams, strategic planning, and organizational excellence  
+- **Project Management** – Agile, Scrum, and **ClickUp** for ERP, software, and digital transformation projects  
+- **ERP Consulting** – Implementation, business process optimization, and client advisory  
+- **Software Development & Delivery** – Collaboration, testing, release management, and technical oversight  
+- **Business Development & Client Relations** – Driving growth, consulting, and strategic partnerships  
+- **Accounting & Finance Management** – From Accountant to Finance Manager, integrating ERP solutions  
+- **Sales, Marketing & Customer Support** – Strategy, client engagement, and technical support  
+
+---
+
+## 🧩 Skills & Tools
+
+**ERP & Business Systems:** SAP, Oracle NetSuite, Odoo, Microsoft Dynamics  
+**Programming & Development:** HTML5, CSS3, JavaScript, Python, C++  
+**Project & Workflow Tools:** Jira, Trello, **ClickUp**, MS Project, Git, Confluence  
+**Digital & Content Skills</div>
 
 <hr></hr>
 
