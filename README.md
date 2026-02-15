@@ -7,7 +7,7 @@
 <p><strong> <summary> Busy managing projects & operations: </summary> </strong></p>
 
 Focusing on **ERP Consulting, Software Project Management, Digital Operations, Business Development, Sales & Marketing, Accounting & Executive Leadership**.  
-Also exploring programming as a **beginner developer** to better understand technical teams.  
+Also exploring programming to better understand technical teams.  
 
 </details>
 
@@ -46,7 +46,7 @@ I integrate **finance, sales, marketing, and digital operations** to deliver mea
 - **ERP & Business Systems:** SAP, Oracle NetSuite, Odoo, Microsoft Dynamics  
 - **Project & Workflow Tools:** Jira, Trello, **ClickUp**, MS Project, Confluence, Git  
 - **Digital & Content Skills:** Technical writing, documentation, content structuring, digital operations  
-- **Programming (Beginner):** HTML, CSS, JavaScript, Python, C++  
+- **Programming Skills:** HTML5, CSS3, JavaScript, C++, Payson (Beginner/Intermediate)  
 
 ---
 
@@ -90,7 +90,11 @@ I integrate **finance, sales, marketing, and digital operations** to deliver mea
 ![Sales](https://img.shields.io/badge/Sales-00C853?style=flat)
 ![Marketing](https://img.shields.io/badge/Marketing-FF6D00?style=flat)
 ![Customer Support](https://img.shields.io/badge/Customer_Support-00B0FF?style=flat)
-![Beginner Programming](https://img.shields.io/badge/Programming-Beginner-lightgrey?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Payson](https://img.shields.io/badge/Payson-FF6F00?style=flat)
 ![ERP](https://img.shields.io/badge/ERP-FF6F00?style=flat)
 ![Business Development](https://img.shields.io/badge/Business_Development-0078D7?style=flat)
 ![Digital Operations](https://img.shields.io/badge/Digital_Operations-FF6F00?style=flat)
